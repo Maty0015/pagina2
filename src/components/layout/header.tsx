@@ -29,7 +29,6 @@ const mainNav = [
   { href: "/", label: "Inicio", icon: Home },
   { href: "/products", label: "Productos", icon: LayoutGrid },
   { href: "/news", label: "Noticias", icon: Newspaper },
-  { href: "/ai-generator", label: "IA", icon: Wrench },
 ];
 
 const infoNav = [
